@@ -9,6 +9,7 @@ public class Teste {
 		s = string;
 		v = d;
 	}
+	
 	public double getV() {
 		return v;
 	}
